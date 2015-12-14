@@ -1,0 +1,4 @@
+id, id, Numeric
+userId, user_id, Varchar
+flag, flag, Boolean
+date, create_date, Datetime
